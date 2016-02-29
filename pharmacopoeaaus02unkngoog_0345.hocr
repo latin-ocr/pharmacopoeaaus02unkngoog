@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeaaus02unkngoog_0345.png"; bbox 0 0 3500 5450; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 656 563 904 635">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 656 563 904 635">
+     <span class='ocr_line' id='line_1_1' title="bbox 656 563 904 635; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 656 606 714 622; x_wconf 71' lang='lat'>‚..</span> <span class='ocrx_word' id='word_1_2' title='bbox 746 563 822 635; x_wconf 81' lang='lat'>315</span> <span class='ocrx_word' id='word_1_3' title='bbox 854 604 904 615; x_wconf 90' lang='lat'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 294 781 767 1384">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 294 781 767 1384">
+     <span class='ocr_line' id='line_1_2' title="bbox 294 781 583 854; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 294 781 473 854; x_wconf 78' lang='lat' dir='ltr'>Tinctura</span> <span class='ocrx_word' id='word_1_5' title='bbox 490 781 583 854; x_wconf 86' lang='lat' dir='ltr'><strong>Jodi.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 295 908 677 982; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 295 908 474 981; x_wconf 83' lang='lat' dir='ltr'><strong>Tinctura</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 492 908 677 982; x_wconf 83' lang='lat' dir='ltr'><strong>Loheliae.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 294 1034 753 1127; baseline 0.002 -19"><span class='ocrx_word' id='word_1_8' title='bbox 294 1034 471 1109; x_wconf 75' lang='lat' dir='ltr'><strong>Tinctum</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 490 1035 573 1127; x_wconf 91' lang='lat' dir='ltr'>Opii</span> <span class='ocrx_word' id='word_1_10' title='bbox 593 1040 753 1109; x_wconf 73' lang='lat' dir='ltr'><strong>crocata.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 295 1162 767 1256; baseline 0.002 -20"><span class='ocrx_word' id='word_1_11' title='bbox 295 1164 472 1237; x_wconf 60' lang='lat' dir='ltr'>Tffnctura</span> <span class='ocrx_word' id='word_1_12' title='bbox 493 1162 575 1256; x_wconf 90' lang='lat' dir='ltr'>Opii</span> <span class='ocrx_word' id='word_1_13' title='bbox 595 1163 767 1255; x_wconf 85' lang='lat' dir='ltr'>simplex.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 296 1290 748 1384; baseline -0.004 -19"><span class='ocrx_word' id='word_1_14' title='bbox 296 1293 474 1365; x_wconf 76' lang='lat' dir='ltr'>Tinctum</span> <span class='ocrx_word' id='word_1_15' title='bbox 493 1290 748 1384; x_wconf 78' lang='lat' dir='ltr'><strong>Strophanthi.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 295 1418 871 2127">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 295 1418 680 1619">
+     <span class='ocr_line' id='line_1_7' title="bbox 295 1418 680 1510; baseline -0.003 -19"><span class='ocrx_word' id='word_1_16' title='bbox 295 1418 474 1492; x_wconf 77' lang='lat' dir='ltr'>Tinctura</span> <span class='ocrx_word' id='word_1_17' title='bbox 494 1418 680 1510; x_wconf 77' lang='lat' dir='ltr'><strong>Strychni.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 295 1546 542 1619; baseline -0.004 0"><span class='ocrx_word' id='word_1_18' title='bbox 295 1546 542 1619; x_wconf 79' lang='lat' dir='ltr'>Veratrinum.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 296 1672 627 1746">
+     <span class='ocr_line' id='line_1_9' title="bbox 296 1672 627 1746; baseline 0.003 -3"><span class='ocrx_word' id='word_1_19' title='bbox 296 1674 434 1746; x_wconf 85' lang='lat' dir='ltr'>Vinum</span> <span class='ocrx_word' id='word_1_20' title='bbox 454 1672 627 1746; x_wconf 84' lang='lat' dir='ltr'>Colchici.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 296 1799 871 2000">
+     <span class='ocr_line' id='line_1_10' title="bbox 296 1799 871 1873; baseline -0.003 -2"><span class='ocrx_word' id='word_1_21' title='bbox 296 1800 432 1873; x_wconf 86' lang='lat' dir='ltr'>Vinum</span> <span class='ocrx_word' id='word_1_22' title='bbox 451 1799 555 1872; x_wconf 83' lang='lat' dir='ltr'>Stibii</span> <span class='ocrx_word' id='word_1_23' title='bbox 572 1799 871 1872; x_wconf 72' lang='lat' dir='ltr'>Kalio-tartarici.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 296 1928 690 2000; baseline -0.005 0"><span class='ocrx_word' id='word_1_24' title='bbox 296 1928 452 2000; x_wconf 85' lang='lat' dir='ltr'>Zincum</span> <span class='ocrx_word' id='word_1_25' title='bbox 471 1928 690 2000; x_wconf 83' lang='lat' dir='ltr'><strong>chloratum.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 296 2054 699 2127">
+     <span class='ocr_line' id='line_1_12' title="bbox 296 2054 699 2127; baseline -0.002 -1"><span class='ocrx_word' id='word_1_26' title='bbox 296 2055 451 2127; x_wconf 84' lang='lat' dir='ltr'>Zincum</span> <span class='ocrx_word' id='word_1_27' title='bbox 471 2054 699 2126; x_wconf 81' lang='lat' dir='ltr'><strong>sulfuricum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1762 5450">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1762 5450">
+     <span class='ocr_line' id='line_1_13' title="bbox 0 0 1762 5450; baseline 0 0"><span class='ocrx_word' id='word_1_28' title='bbox 0 0 1762 5450; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

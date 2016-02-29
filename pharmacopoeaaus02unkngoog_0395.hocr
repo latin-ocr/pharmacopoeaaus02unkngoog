@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeaaus02unkngoog_0395.png"; bbox 0 0 3500 5450; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 390 2283 1202 2447">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 390 2283 1202 2447">
+     <span class='ocr_line' id='line_1_1' title="bbox 390 2283 1202 2447; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 390 2283 675 2447; x_wconf 82' lang='lat' dir='ltr'>INDEX</span> <span class='ocrx_word' id='word_1_2' title='bbox 729 2283 1202 2447; x_wconf 76' lang='lat' dir='ltr'>SPECIALIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 199 2601 1389 2704">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 199 2525 1389 2704">
+     <span class='ocr_line' id='line_1_2' title="bbox 199 2601 1389 2704; baseline -0.003 -2"><span class='ocrx_word' id='word_1_3' title='bbox 199 2602 638 2704; x_wconf 78' lang='lat' dir='ltr'>SYNONYMUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 733 2602 1232 2703; x_wconf 76' lang='lat' dir='ltr'>OBSOLETORUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1320 2601 1389 2700; x_wconf 79' lang='lat' dir='ltr'>IN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 203 2784 1395 3086">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 203 2784 1395 3086">
+     <span class='ocr_line' id='line_1_3' title="bbox 203 2784 1395 2886; baseline 0.001 -4"><span class='ocrx_word' id='word_1_6' title='bbox 203 2785 528 2886; x_wconf 86' lang='lat' dir='ltr'>EDITIONE</span> <span class='ocrx_word' id='word_1_7' title='bbox 587 2787 809 2886; x_wconf 81' lang='lat' dir='ltr'>SEXTA</span> <span class='ocrx_word' id='word_1_8' title='bbox 859 2786 1102 2886; x_wconf 85' lang='lat' dir='ltr'><strong>ADHUC</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1159 2784 1395 2884; x_wconf 85' lang='lat' dir='ltr'>RECEP-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 333 2966 1253 3086; baseline 0 -22"><span class='ocrx_word' id='word_1_10' title='bbox 333 2966 582 3086; x_wconf 86' lang='lat' dir='ltr'><strong>TORUM‚</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 622 2966 802 3067; x_wconf 88' lang='lat' dir='ltr'>NUNC</span> <span class='ocrx_word' id='word_1_12' title='bbox 841 2966 1253 3067; x_wconf 84' lang='lat' dir='ltr'><strong>OMISSORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1754 5450">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1754 5450">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1754 5450; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1754 5450; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
